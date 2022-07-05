@@ -1,2 +1,2 @@
 # tzguar
-TekZoo Gif Usage Anylisis Bot
+TekZoo Gif Usage Analysis Bot
